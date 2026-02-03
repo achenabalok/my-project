@@ -1,0 +1,37 @@
+{
+  "image_generation_schema": {
+    "meta_data": {
+      "style": "High-End Beauty & Fashion Portrait",
+      "quality_preset": "Ultra Realistic HDR",
+      "resolution": "8K UHD",
+      "aspect_ratio": "9:16 (Vertical)"
+    },
+    "prompt_components": {
+      "subject_description": {
+        "demographics": "Young woman, elegant features, soft makeup",
+        "hair": "Long, voluminous wavy blonde hair with light brown highlights, parted in the middle",
+        "expression": "Serene, confident, direct eye contact with the camera",
+        "framing": "Close-up portrait shot, focusing on head and shoulders"
+      },
+      "outfit_details": {
+        "dress": "Dusty pink and lavender floral chiffon dress, halter neck with ruffled layers, delicate fabric texture",
+        "accessories": "Thin, minimalist gold necklace"
+      },
+      "environment_staging": {
+        "setting": "Bright, minimalist luxury interior",
+        "background": "Softly blurred white sheer curtains, bright airy atmosphere"
+      },
+      "lighting_atmosphere": {
+        "source": "Soft, diffused natural light coming from the front-left",
+        "quality": "Ethereal, high-key lighting, glowing skin tones",
+        "shadows": "Very subtle, soft-focus shadows"
+      },
+      "technical_modifiers": {
+        "camera": "Shot on 85mm prime lens, f/1.2 aperture for creamy bokeh",
+        "visuals": "Hyper-realistic skin texture, 8k resolution, sharp focus on the eyes, cinematic color grading"
+      }
+    },
+    "full_prompt_string": "A stunning close-up fashion portrait of a beautiful woman with long wavy blonde hair, looking directly into the camera with a confident expression. She is wearing a ruffled floral halter-neck dress in shades of pink. The background is a bright room with soft white curtains. High-end beauty photography, soft natural lighting, shallow depth of field, 8k resolution, photorealistic, elegant aesthetic.",
+    "negative_prompt": "blurry, low quality, distorted eyes, messy hair, dark shadows, high contrast, oversaturated, watermark, text, grainy, bad skin texture"
+  }
+}
